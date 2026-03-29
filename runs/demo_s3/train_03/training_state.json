@@ -1,0 +1,29 @@
+{
+  "status": "finished",
+  "current_point": null,
+  "points": [],
+  "anchor_statuses": {
+    "A1": {
+      "last_seen_at": null,
+      "last_ip": null,
+      "last_batch_packets": 0,
+      "last_batch_at": null,
+      "last_config_poll_at": null
+    },
+    "A2": {
+      "last_seen_at": "2026-03-23T15:56:58.258375-03:00",
+      "last_ip": "192.168.0.26",
+      "last_batch_packets": 388,
+      "last_batch_at": "2026-03-23T15:56:58.258375-03:00",
+      "last_config_poll_at": "2026-03-23T15:56:57.450428-03:00"
+    },
+    "A3": {
+      "last_seen_at": "2026-03-23T15:57:07.776121-03:00",
+      "last_ip": "192.168.0.27",
+      "last_batch_packets": 226,
+      "last_batch_at": "2026-03-23T15:57:07.777098-03:00",
+      "last_config_poll_at": "2026-03-23T15:57:07.161854-03:00"
+    }
+  },
+  "updated_at": "2026-03-23T15:57:45.149132-03:00"
+}

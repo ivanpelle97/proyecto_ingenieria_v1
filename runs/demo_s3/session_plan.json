@@ -1,0 +1,41 @@
+{
+  "session_id": "demo_s3",
+  "planned_campaigns": 5,
+  "target_mac": "02:11:22:33:44:55",
+  "environment": {
+    "length_m": 5.58,
+    "width_m": 3.6,
+    "height_m": 2.5
+  },
+  "anchors": [
+    {
+      "anchor_id": "A1",
+      "x_m": 0.0,
+      "y_m": 3.6,
+      "z_m": 2.0,
+      "model": "ESP32",
+      "notes": ""
+    },
+    {
+      "anchor_id": "A2",
+      "x_m": 2.6,
+      "y_m": 0.5,
+      "z_m": 2.0,
+      "model": "ESP32",
+      "notes": ""
+    },
+    {
+      "anchor_id": "A3",
+      "x_m": 5.58,
+      "y_m": 3.6,
+      "z_m": 2.0,
+      "model": "ESP32",
+      "notes": ""
+    }
+  ],
+  "campaign_ids": [
+    "train_03"
+  ],
+  "created_at": "2026-03-23T15:56:50.181318-03:00",
+  "updated_at": "2026-03-23T15:57:28.104936-03:00"
+}

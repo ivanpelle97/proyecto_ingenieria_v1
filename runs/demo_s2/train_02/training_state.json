@@ -1,0 +1,318 @@
+{
+  "status": "ready",
+  "current_point": null,
+  "points": [
+    {
+      "point_id": "P01",
+      "x_m": 0.6,
+      "y_m": 3.0,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:21:06.818185-03:00",
+      "capture_complete_at": "2026-03-15T19:28:26.621389-03:00",
+      "completed_at": "2026-03-15T19:28:32.543846-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P02",
+      "x_m": 1.5,
+      "y_m": 3.0,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:28:59.287330-03:00",
+      "capture_complete_at": "2026-03-15T19:31:13.767850-03:00",
+      "completed_at": "2026-03-15T19:32:20.067093-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P03",
+      "x_m": 2.4,
+      "y_m": 3.0,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:32:44.006869-03:00",
+      "capture_complete_at": "2026-03-15T19:35:29.649250-03:00",
+      "completed_at": "2026-03-15T19:35:47.586812-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P04",
+      "x_m": 3.3,
+      "y_m": 3.0,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:36:20.269394-03:00",
+      "capture_complete_at": "2026-03-15T19:44:58.643929-03:00",
+      "completed_at": "2026-03-15T19:45:09.617566-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P05",
+      "x_m": 4.2,
+      "y_m": 3.0,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:45:42.222452-03:00",
+      "capture_complete_at": "2026-03-15T19:46:58.529815-03:00",
+      "completed_at": "2026-03-15T19:47:14.491846-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P06",
+      "x_m": 5.1,
+      "y_m": 3.0,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:47:39.267811-03:00",
+      "capture_complete_at": "2026-03-15T19:51:13.021527-03:00",
+      "completed_at": "2026-03-15T19:51:37.024216-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P07",
+      "x_m": 5.1,
+      "y_m": 2.1,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:52:52.804614-03:00",
+      "capture_complete_at": "2026-03-15T19:54:10.755165-03:00",
+      "completed_at": "2026-03-15T19:54:24.376165-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P08",
+      "x_m": 4.2,
+      "y_m": 2.1,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:54:55.919003-03:00",
+      "capture_complete_at": "2026-03-15T19:57:07.402738-03:00",
+      "completed_at": "2026-03-15T19:57:49.749550-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P09",
+      "x_m": 3.3,
+      "y_m": 2.1,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T19:58:16.039668-03:00",
+      "capture_complete_at": "2026-03-15T19:58:52.839151-03:00",
+      "completed_at": "2026-03-15T19:59:07.351588-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P10",
+      "x_m": 2.4,
+      "y_m": 2.1,
+      "z_m": 1.0,
+      "started_at": "2026-03-15T19:59:45.414522-03:00",
+      "capture_complete_at": "2026-03-15T20:05:47.977642-03:00",
+      "completed_at": "2026-03-15T20:06:08.405765-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P11",
+      "x_m": 1.5,
+      "y_m": 2.1,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T20:06:40.637962-03:00",
+      "capture_complete_at": "2026-03-15T20:11:31.540961-03:00",
+      "completed_at": "2026-03-15T20:11:40.501739-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P12",
+      "x_m": 0.6,
+      "y_m": 2.1,
+      "z_m": 1.0,
+      "started_at": "2026-03-15T20:12:06.566834-03:00",
+      "capture_complete_at": "2026-03-15T20:14:51.013575-03:00",
+      "completed_at": "2026-03-15T20:15:02.999835-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P13",
+      "x_m": 0.6,
+      "y_m": 1.2,
+      "z_m": 1.0,
+      "started_at": "2026-03-15T20:15:53.395525-03:00",
+      "capture_complete_at": "2026-03-15T20:26:59.989253-03:00",
+      "completed_at": "2026-03-15T20:27:05.429896-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P14",
+      "x_m": 1.5,
+      "y_m": 1.2,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T20:27:34.255551-03:00",
+      "capture_complete_at": "2026-03-15T20:30:29.891498-03:00",
+      "completed_at": "2026-03-15T20:31:57.651535-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P15",
+      "x_m": 2.4,
+      "y_m": 1.2,
+      "z_m": 1.0,
+      "started_at": "2026-03-15T20:33:12.991850-03:00",
+      "capture_complete_at": "2026-03-15T20:33:34.771199-03:00",
+      "completed_at": "2026-03-15T20:33:58.324729-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P16",
+      "x_m": 3.3,
+      "y_m": 1.2,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T20:34:32.163447-03:00",
+      "capture_complete_at": "2026-03-15T20:40:51.131183-03:00",
+      "completed_at": "2026-03-15T20:40:58.584912-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P17",
+      "x_m": 4.2,
+      "y_m": 1.2,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T20:41:47.552689-03:00",
+      "capture_complete_at": "2026-03-15T20:44:08.875481-03:00",
+      "completed_at": "2026-03-15T20:44:17.243546-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P18",
+      "x_m": 5.1,
+      "y_m": 1.2,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T20:45:08.369417-03:00",
+      "capture_complete_at": "2026-03-15T20:50:41.121583-03:00",
+      "completed_at": "2026-03-15T20:50:46.046392-03:00",
+      "counts": {
+        "A1": 10,
+        "A2": 10,
+        "A3": 10
+      },
+      "complete": true,
+      "status": "complete"
+    }
+  ],
+  "anchor_statuses": {
+    "A1": {
+      "last_seen_at": "2026-03-23T15:51:19.947841-03:00",
+      "last_ip": "192.168.0.25",
+      "last_batch_packets": 241,
+      "last_batch_at": "2026-03-23T15:51:19.947841-03:00",
+      "last_config_poll_at": "2026-03-23T15:51:16.771283-03:00"
+    },
+    "A2": {
+      "last_seen_at": "2026-03-15T22:12:25.666809-03:00",
+      "last_ip": "192.168.0.33",
+      "last_batch_packets": 345,
+      "last_batch_at": "2026-03-15T22:12:25.666809-03:00",
+      "last_config_poll_at": "2026-03-15T22:12:25.179119-03:00"
+    },
+    "A3": {
+      "last_seen_at": "2026-03-15T22:13:46.375159-03:00",
+      "last_ip": "192.168.0.27",
+      "last_batch_packets": 197,
+      "last_batch_at": "2026-03-15T21:54:53.423029-03:00",
+      "last_config_poll_at": "2026-03-15T22:13:46.375159-03:00"
+    }
+  },
+  "updated_at": "2026-03-23T15:51:19.947841-03:00"
+}

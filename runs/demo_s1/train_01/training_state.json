@@ -1,0 +1,62 @@
+{
+  "status": "finished",
+  "current_point": null,
+  "points": [
+    {
+      "point_id": "P01",
+      "x_m": 0.6,
+      "y_m": 3.0,
+      "z_m": 0.5,
+      "started_at": "2026-03-15T18:27:55.501728-03:00",
+      "capture_complete_at": "2026-03-15T19:02:55.010673-03:00",
+      "completed_at": "2026-03-15T19:03:27.144947-03:00",
+      "counts": {
+        "A1": 20,
+        "A2": 20,
+        "A3": 20
+      },
+      "complete": true,
+      "status": "complete"
+    },
+    {
+      "point_id": "P02",
+      "x_m": 0.6,
+      "y_m": 0.5,
+      "z_m": 1.0,
+      "started_at": "2026-03-15T19:08:47.073574-03:00",
+      "capture_complete_at": "2026-03-15T19:19:54.419447-03:00",
+      "completed_at": "2026-03-15T19:20:10.269892-03:00",
+      "counts": {
+        "A1": 20,
+        "A2": 20,
+        "A3": 20
+      },
+      "complete": true,
+      "status": "complete"
+    }
+  ],
+  "anchor_statuses": {
+    "A1": {
+      "last_seen_at": "2026-03-15T19:17:25.986743-03:00",
+      "last_ip": "192.168.0.34",
+      "last_batch_packets": 266,
+      "last_batch_at": "2026-03-15T19:17:25.986743-03:00",
+      "last_config_poll_at": "2026-03-15T19:17:25.654711-03:00"
+    },
+    "A2": {
+      "last_seen_at": "2026-03-15T19:19:52.748443-03:00",
+      "last_ip": "192.168.0.33",
+      "last_batch_packets": 343,
+      "last_batch_at": "2026-03-15T19:19:52.748443-03:00",
+      "last_config_poll_at": "2026-03-15T19:19:52.269173-03:00"
+    },
+    "A3": {
+      "last_seen_at": "2026-03-15T19:19:54.412448-03:00",
+      "last_ip": "192.168.0.27",
+      "last_batch_packets": 258,
+      "last_batch_at": "2026-03-15T19:19:54.412448-03:00",
+      "last_config_poll_at": "2026-03-15T19:19:54.204543-03:00"
+    }
+  },
+  "updated_at": "2026-03-15T19:20:14.528539-03:00"
+}
